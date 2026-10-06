@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#0b1210"/>
+<circle cx="1030" cy="80" r="360" fill="none" stroke="#315c46" stroke-opacity=".35"/>
+<circle cx="1030" cy="80" r="250" fill="none" stroke="#315c46" stroke-opacity=".22"/>
+<text x="90" y="170" font-family="Arial, sans-serif" font-size="34" fill="#7f9388" letter-spacing="7">SITEFARM</text>
+<text x="90" y="275" font-family="Arial, sans-serif" font-size="82" font-weight="700" fill="#f1f5f1">Seu site,</text>
+<text x="90" y="365" font-family="Arial, sans-serif" font-size="82" font-weight="400" fill="#9ac8aa">fácil e rápido.</text>
+<text x="90" y="465" font-family="Arial, sans-serif" font-size="32" fill="#9aa8a0">One Page profissional por R$ 500.</text>
+</svg>
